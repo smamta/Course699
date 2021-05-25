@@ -1,1 +1,1 @@
-# Course699
+# python-10-min-setup
